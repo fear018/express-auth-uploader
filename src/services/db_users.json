@@ -1,0 +1,31 @@
+[
+  {
+    "login": "user1",
+    "id": "f962f493-f957-4b53-8a89-318516c6059a",
+    "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+  },
+  {
+    "id": "13074196-aa0a-4633-b5dd-b17604e6fe9e",
+    "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+  },
+  {
+    "login": "user2",
+    "id": "30015af9-4211-445e-8e8f-b0b720e13d39",
+    "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+  },
+  {
+    "login": "user23",
+    "id": "e94c53ff-7d66-4305-8852-cbc7d1f197b1",
+    "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+  },
+  {
+    "login": "user233",
+    "id": "493d1fde-5e8c-4544-8fd6-cae2d18561c6",
+    "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+  },
+  {
+    "login": "user2338",
+    "id": "3dc08501-83e6-4dc3-b27c-946812b8efb9",
+    "password": "$2b$10$.O4FPfLoxdnrf8Zq/FcoRe8HwNW89U2Fm4gaUuXeZZt5mC3fblvDW"
+  }
+]
