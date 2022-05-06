@@ -1,0 +1,1 @@
+npm i && sudo PORT=80 node src/index.js
