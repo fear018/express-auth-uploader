@@ -5,7 +5,7 @@ const cors = require("cors");
 const router = require("./services/router");
 const errorsHandler = require("./middlewares/errorsHandler");
 
-const port = 5000;
+const port = process.env.PORT || 5000;
 const host = "127.0.0.1";
 
 app.use(cors());
